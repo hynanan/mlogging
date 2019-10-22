@@ -1,3 +1,4 @@
+引入原因：这是一个对于python在linux环境下多进程日志完善的一个案例，由于在linux环境下，在日切日志的时候，会造成文件未按照预定设置的模板切分
 Introduction
 ============
 mlogging provide an additional handlers for MultiProcess program based on logging module(Copyright 2001-2007 by Vinay Sajip)
